@@ -4,7 +4,7 @@
 
 ## Objective
 
-The goal of this milestone is to provide an update on your progress in developing and refining your visualizations and integrating them into your website. This is an opportunity to show how far you’ve come, outline any challenges, and share your current project link.
+The goal of this milestone is to provide an update on your progress in developing and refining your visualizations and integrating them into your website. As mentioned last Thursday, this is an opportunity to show how far you’ve come, outline any challenges, and share your current project link.
 
 ## Instructions
 
